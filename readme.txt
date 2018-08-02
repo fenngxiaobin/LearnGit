@@ -4,3 +4,4 @@ git is very good
 git checkout stupid
 git huanchong
 modify in master and feature1(branch b)
+add merge
