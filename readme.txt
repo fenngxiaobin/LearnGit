@@ -3,4 +3,4 @@ git is a free software distributed under the GPL 2
 git is very good
 git checkout stupid
 git huanchong
-
+add in branch b
